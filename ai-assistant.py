@@ -108,7 +108,6 @@ greeting = "THank you for calling victoria medical clinic. My name is Sarah, how
 
 
 ai_assistant = AI_Assistant()
-
 ai_assistant.generate_audio(greeting)
 ai_assistant.start_transcription()
 
